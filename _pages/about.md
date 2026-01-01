@@ -5,11 +5,11 @@ permalink: /
 subtitle: <a href='https://orcid.org/0009-0002-4917-6464'>Affiliations</a>.
 profile:
   align: right
-  image: prof_pic.jpg
+  image: assets/img/pic_samira.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>School of Mechanical Engineering,</p>
-    <p>University of Tehran, Tehran, Iran</p>
+    <p>School of Public Health,</p>
+    <p>Shahid Beheshti University of Medical sciences, Tehran, Iran</p>
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -27,11 +27,8 @@ latest_posts:
 ---
 
 
-I’m a researcher with a strong academic background in **Nonlinear Solid Mechanics** and **Finite Element Analysis**. I completed my **M.Sc. at the University of Tehran** (#340 in QS Ranking) with a **GPA of 3.88**. My research interests include the multiphysics modeling of smart materials—such as _Shape Memory Polymers (SMPs)_, _hydrogels_, and _Dielectric Elastomer Actuators (DEAs)_. 📚💡  
+an aspiring researcher dedicated to making a significant impact in the realm of health. I hold a degree in Public Health and Health Education & Promotion. My journey has been enriched by over 7 years of practical experience as a health educator in elementary schools. My passion lies in a spectrum of areas including innovative methods to promote physical activity, theory-based interventions, psycology of exercise, school health, public health, health education & promotion, as well as nutrition, community health and mental health. With eager anticipation, I look forward to embarking on my graduate journey, delving deeper into these vital fields.
 
-I have a solid foundation in _continuum mechanics_ and _constitutive modeling_, and I want to use this knowledge to help push the boundaries of science, especially in areas connected to human health. I truly believe that by doing so, we can all move toward a better, healthier life together 🌍❤️✨.  
-
-Oh, and beyond the lab—I love camping, canyoning, and reading too 🌊📖.  
 
 
 
