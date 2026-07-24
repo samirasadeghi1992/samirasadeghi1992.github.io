@@ -27,7 +27,11 @@ latest_posts:
 ---
 
 
-an aspiring researcher dedicated to making a significant impact in the realm of health. I hold a degree in Public Health and Health Education & Promotion. My journey has been enriched by over 7 years of practical experience as a health educator in elementary schools. My passion lies in a spectrum of areas including innovative methods to promote physical activity, theory-based interventions, psycology of exercise, school health, public health, health education & promotion, as well as nutrition, community health and mental health. With eager anticipation, I look forward to embarking on my graduate journey, delving deeper into these vital fields.
+I am an aspiring researcher dedicated to making a meaningful impact in the field of health. I hold a degree in Public Health and Health Education & Promotion. My journey has been enriched by over seven years of hands-on experience as a health educator in elementary schools. 🌱
+
+My passion spans a wide range of areas, including innovative approaches to promoting physical activity, theory-based interventions, exercise psychology, school health, public health, health education & promotion, nutrition, community health, and mental health. 💡
+
+I eagerly look forward to beginning my graduate journey and deepening my knowledge in these vital fields. 🎓
 
 
 
