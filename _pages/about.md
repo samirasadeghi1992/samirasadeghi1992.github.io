@@ -27,11 +27,16 @@ latest_posts:
 ---
 
 
-I am an aspiring researcher dedicated to making a meaningful impact in the field of health. I hold a degree in Public Health and Health Education & Promotion. My journey has been enriched by over seven years of hands-on experience as a health educator in elementary schools. 🌱
 
-My passion spans a wide range of areas, including innovative approaches to promoting physical activity, theory-based interventions, exercise psychology, school health, public health, health education & promotion, nutrition, community health, and mental health. 💡
+Hello, I am Samira Sadeghi, a Public Health graduate with a strong interest in Health Promotion, Behavior Change, Epidemiology, and Digital Health.
 
-I eagerly look forward to beginning my graduate journey and deepening my knowledge in these vital fields. 🎓
+I hold a Master’s degree in Public Health (Health Education & Promotion) and have over seven years of professional experience as a health educator in elementary schools. During this time, I have been involved in designing and implementing school-based health education activities focused on improving health behaviors among children. 🌱
+
+My research interests focus on the development and evaluation of theory-based interventions to promote healthy lifestyles and improve population health outcomes. 💡
+
+I am currently seeking PhD opportunities to further develop my expertise in Public Health and contribute to research in behavior change, epidemiology, and digital health. 🎓
+
+
 
 
 
